@@ -5,7 +5,7 @@ import { Card, Col, Row, Container } from 'react-bootstrap';
 
 const Feedback = () => {
     return (
-        <div>
+        <div className='pb-5'>
             <Container>
                 <h1 className='text-primary'>Our Students Reviews</h1>
                 <p>What other students turned professionals have to say about us <br /> after learning with us and reaching their goals.</p>

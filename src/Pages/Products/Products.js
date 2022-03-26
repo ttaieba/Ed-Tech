@@ -1,5 +1,6 @@
 import React from 'react';
 import { Card, Col, Row, Container, Button } from 'react-bootstrap';
+
 import img1 from '../../img/courses/cr-1.jpg'
 import img2 from '../../img/courses/cr-3.jpg'
 import img from '../../img/courses/cr-4.jpg'
@@ -22,6 +23,8 @@ const Blogs = () => {
                                         8,350 Enrolled</span>
 
                                 </Card.Text>
+
+
                                 <Button variant="outline-info">Read more</Button>
                             </Card.Body>
                         </Card>

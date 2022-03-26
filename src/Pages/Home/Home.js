@@ -6,6 +6,7 @@ import Features from '../Features-cart/Features';
 import Products from '../Products/Products'
 import Feedback from '../Feedback/Feedback';
 
+
 const Home = () => {
     return (
         <div className='bg-light'>
@@ -29,6 +30,7 @@ const Home = () => {
             <Products></Products>
             <AboutUs></AboutUs>
             <Feedback></Feedback>
+
 
         </div>
     );
