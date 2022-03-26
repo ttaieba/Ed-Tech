@@ -3,6 +3,7 @@ import { Button, Col, Container, Row } from 'react-bootstrap';
 import cover from '../../img/illustrat cover 2.png'
 import AboutUs from '../AboutUs/AboutUs';
 import Features from '../Features-cart/Features';
+import Products from '../Products/Products'
 import Feedback from '../Feedback/Feedback';
 
 const Home = () => {
@@ -25,6 +26,7 @@ const Home = () => {
                 </Row>
             </Container>
             <Features></Features>
+            <Products></Products>
             <AboutUs></AboutUs>
             <Feedback></Feedback>
 

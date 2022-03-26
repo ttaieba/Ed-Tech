@@ -17,7 +17,7 @@ const Footer = () => {
 
                 <Col>
 
-                    <h3>E- Learning Sheba</h3>
+                    <h3>Ed- Tech</h3>
                     <p>Position yourself for success with a variety of college classes including general education courses </p>
                     <Form>
                         <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
